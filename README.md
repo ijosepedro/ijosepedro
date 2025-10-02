@@ -1,6 +1,10 @@
 - 👋 Hello, I'm @ijosepedro
 - 👀 I'm interested in programming
 - 📫 How to contact me: josepedrod325@gmail.com
+- C++ JavaScript Python
+React Django Flutter
+MySQL SQLite
+Git
 
 <!---C++ JavaScript Python
 React Django Flutter
